@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926106103675",
+    "firebase_url": "https://cabinet-lock.firebaseio.com",
+    "project_id": "cabinet-lock",
+    "storage_bucket": "cabinet-lock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926106103675:android:0cae95dc257a2068",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cabinett"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926106103675-mfv4ajssurn4mrfi3h6r315756s8bdsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVb7p4FYe-E3Rmb8U4hc-E7laKLMZy_RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926106103675-mfv4ajssurn4mrfi3h6r315756s8bdsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
